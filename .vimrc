@@ -72,7 +72,6 @@ set statusline=\ %<%l:%v\ [%P]%=%a\ %h%m%r\ %F\
 set hlsearch
 set laststatus=2
 set tag+=./tags
-set lines=51 columns=158
 "set mouse=a
 "set ttymouse=xterm2
 "
