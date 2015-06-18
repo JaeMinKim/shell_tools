@@ -3,7 +3,7 @@ startup_message off
 #erase background with current bg color
 defbce "on"
 
-term "screen-256color-bce"
+#term "screen-256color-bce"
 
 
 #terminfo and termcpa for nice 256 color terminal

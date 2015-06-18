@@ -3,10 +3,10 @@
 "========================
 "
 set nocp    "no vi just use vim
-"set all&    "all setting is defalut
-set hi=999  "save 999 history
+set all&    "all setting is defalut
+set hi=9999 "save 999 history
 set vb      "view bell
-"set lpl     "load plugin
+set lpl     "load plugin
 
 
 "========================
@@ -15,7 +15,7 @@ set vb      "view bell
 "
 set enc=utf-8
 set fenc=utf-8
-set fencs=utf-8,cp949,cp932,euckr,shift-jis,big5,ucs-2le,latin1
+set fencs=utf-8,cp949,cp932,euc-kr,shift-jis,big5,ucs-2le,latin1
 
 
 "========================
