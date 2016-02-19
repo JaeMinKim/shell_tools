@@ -24,12 +24,12 @@ set fencs=utf-8,cp949,cp932,euc-kr,shift-jis,big5,ucs-2le,latin1
 "
 colorscheme herald
 set t_Co=256
-set t_AB=^[[48;5;%dm
-set t_AF=^[[38;5;%dm
+"set t_AB=^[[48;5;%dm
+"set t_AF=^[[38;5;%dm
 "set term=xterm
 "set term=screen-bce
 "set term=xterm-color
-set term=screen-256color
+"set term=screen-256color
 
 
 "========================
